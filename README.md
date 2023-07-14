@@ -1,2 +1,2 @@
 # Disciplina Pogramação para Dispositivos Mòveis I - Pos graduaçâo 
-# atividadepratica01
+# atividade prática 02 - CSS
